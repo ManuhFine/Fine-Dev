@@ -6,6 +6,11 @@ Atualmente estou focando em desenvolver habilidades em **HTML, CSS e JavaScript*
 
 
 
+## 🎯 Objetivo: 
+Conseguir minha primeira oportunidade profissional como freelancer ou júnior nas áreas de **desenvolvimento web** ou **design gráfico**.
+
+
+
 ## 💡 O que você vai encontrar aqui:
 - Projetos simples e práticos de front-end
 - Design de posts e logos fictícios
@@ -21,12 +26,15 @@ Atualmente estou focando em desenvolver habilidades em **HTML, CSS e JavaScript*
 
 
 
-## 🚀 Objetivo:
-Conseguir minha primeira oportunidade profissional como freelancer ou júnior nas áreas de **desenvolvimento web** ou **design gráfico**.
+## 🚀 Meus projetos
 
+- EM BREVE
+
+ 
 
 ## 📫 Contato:
-- Email: CONTATO.MANUHFINE@GMAIL.COM  
+- Email: contato.manuhfine@gmail.com
+- Discord: EM BREVE
 - Patreon: [@manuhfine](https://www.patreon.com/c/manuhfine) 
 
 
