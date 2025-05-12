@@ -27,7 +27,7 @@ Conseguir minha primeira oportunidade profissional como freelancer ou júnior na
 
 ## 📫 Contato:
 - Email: CONTATO.MANUHFINE@GMAIL.COM  
-- Patreon: [@manuhfine]((https://www.patreon.com/c/manuhfine))  
+- Patreon: [@manuhfine](https://www.patreon.com/c/manuhfine) 
 
 
 ⭐ Obrigada por visitar meu perfil! Fique à vontade para ver meus projetos e me mandar um alô!
