@@ -28,7 +28,7 @@ Conseguir minha primeira oportunidade profissional como freelancer ou júnior na
 
 ## 🚀 Meus projetos
 
-- **BOT de Discord** → [Ver projeto]([https://github.com/seuusuario/calculadora](https://github.com/ManuhFine/Fine-BOT_Discord))
+- **BOT de Discord** → [Ver projeto](https://github.com/ManuhFine/Fine-BOT_Discord)
 
  
 
