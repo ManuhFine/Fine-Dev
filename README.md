@@ -1,4 +1,4 @@
-# Olá! Eu sou a Manuh Fine 👋
+# Oieee! Eu sou a Manuh Fine 👋
 
 🎨 Iniciante em Design Gráfico | 💻 Estudando Programação Front-End
 
